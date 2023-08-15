@@ -1,3 +1,5 @@
-# Platform-oyunu-denemesi
+# Basic-Archery-Platform-Game
  
- Oyunu indirme linki: https://ataberkadali.itch.io/platform-archery-2d-basic-game
+Game Download Link: https://ataberkadali.itch.io/platform-archery-2d-basic-game
+
+!! This is an old project the codes are not solid !!
